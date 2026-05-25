@@ -356,8 +356,7 @@
   .feature-title { font-size: 1.1rem; font-weight: 700; margin-bottom: 0.75rem; }
   .feature-desc { color: var(--gray); font-size: 0.9rem; line-height: 1.7; }
 
-
-  /* PARTNERS */
+/* PARTNERS */
 .partners-section{
     padding:100px 20px;
     background:#111;
